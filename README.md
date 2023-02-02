@@ -27,8 +27,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
-![](./screenshot.jpg)
+![Web capture_2-2-2023_111519_00awaudby github io](https://user-images.githubusercontent.com/84845712/216310360-d8eb4d51-6e7c-4415-9940-920ee5f690a4.jpeg)
 
 
 
