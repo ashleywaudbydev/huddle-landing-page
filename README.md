@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/huddle-landing-page-YgBK8CtTfF)
 - Live Site URL: (https://00awaudby.github.io/huddle-landing-page/)
 
 ## My process
@@ -48,7 +48,7 @@ Users should be able to:
 
 
 ### What I learned
-I leaned how to lay out and design a simple ui landing page using html and css.
+I leaned how to lay out and design a simple ui landing page using html and css. Doing lots of thee challenges i also pick up on the importance of the alt attribute when using images in our projects.
 
 
 
@@ -60,7 +60,7 @@ I will continue to build different ui using the skills i have leanred.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@00awaudby](https://www.frontendmentor.io/profile/00awaudby)
 
 
 
