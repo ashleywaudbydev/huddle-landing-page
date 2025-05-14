@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://www.frontendmentor.io/solutions/huddle-landing-page-YgBK8CtTfF)
-- Live Site URL: (https://00awaudby.github.io/huddle-landing-page/)
+- Live Site URL: (https://ashleywaudbydev.github.io/huddle-landing-page/)
 
 ## My process
 
